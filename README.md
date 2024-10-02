@@ -1,3 +1,4 @@
+
  _______  _        _______  _        _______    _______  _______  _______  _______ 
 (  ____ \( (    /|(  ___  )| \    /\(  ____ \  (  ____ \(  ___  )(       )(  ____ \
 | (    \/|  \  ( || (   ) ||  \  / /| (    \/  | (    \/| (   ) || () () || (    \/
@@ -6,6 +7,8 @@
       ) || | \   || (   ) ||  ( \ \ | (        | | \_  )| (   ) || |   | || (      
 /\____) || )  \  || )   ( ||  /  \ \| (____/\  | (___) || )   ( || )   ( || (____/\
 \_______)|/    )_)|/     \||_/    \/(_______/  (_______)|/     \||/     \|(_______/
+                                                                                   
+
 -----------------------------------------------------------------------------------
 
 A classic snake game built with Python and Pygame, featuring sound effects, scoring system, and a graphical interface. Control the snake, eat fruits, and grow longer while avoiding self-collisions and walls.
